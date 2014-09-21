@@ -6,6 +6,9 @@ category:
 tags: [ Markdown, StackEdit ]
 ---
 
+中文支持 
+
+
 Welcome to StackEdit!
 ===================
 
